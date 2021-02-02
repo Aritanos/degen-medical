@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 1b064059ba3d4dc409a4a11f2000a6ce
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 92095A287
+    100002: 92095A287.001
+    100004: 97-32P-01(Default)
+    100006: 97-32P-03
+    100008: 97-32P-04
+    100010: 98380A467
+    100012: 98380A467.001
+    100014: //RootNode
+    100016: Object.001
+    100018: Object.002
+    100020: Object.003
+    100022: Object.004
+    100024: Object.005
+    100026: Object.006
+    100028: Object.007
+    100030: Object.008
+    100032: Object.009
+    100034: Object.010
+    100036: Object.011
+    100038: Object.012
+    400000: 92095A287
+    400002: 92095A287.001
+    400004: 97-32P-01(Default)
+    400006: 97-32P-03
+    400008: 97-32P-04
+    400010: 98380A467
+    400012: 98380A467.001
+    400014: //RootNode
+    400016: Object.001
+    400018: Object.002
+    400020: Object.003
+    400022: Object.004
+    400024: Object.005
+    400026: Object.006
+    400028: Object.007
+    400030: Object.008
+    400032: Object.009
+    400034: Object.010
+    400036: Object.011
+    400038: Object.012
+    2100000: Material.134
+    2100002: Material.135
+    2100004: Material.136
+    2100006: Material.137
+    2100008: Material.138
+    2100010: Material.139
+    2100012: Material.140
+    2100014: Material.141
+    2100016: Material.142
+    2100018: Material.143
+    2100020: Material.144
+    2100022: Material.145
+    2100024: Material.146
+    2100026: Material.147
+    2300000: 92095A287
+    2300002: 92095A287.001
+    2300004: 97-32P-01(Default)
+    2300006: 97-32P-03
+    2300008: 97-32P-04
+    2300010: 98380A467
+    2300012: 98380A467.001
+    2300014: Object.001
+    2300016: Object.002
+    2300018: Object.003
+    2300020: Object.004
+    2300022: Object.005
+    2300024: Object.006
+    2300026: Object.007
+    2300028: Object.008
+    2300030: Object.009
+    2300032: Object.010
+    2300034: Object.011
+    2300036: Object.012
+    3300000: 92095A287
+    3300002: 92095A287.001
+    3300004: 97-32P-01(Default)
+    3300006: 97-32P-03
+    3300008: 97-32P-04
+    3300010: 98380A467
+    3300012: 98380A467.001
+    3300014: Object.001
+    3300016: Object.002
+    3300018: Object.003
+    3300020: Object.004
+    3300022: Object.005
+    3300024: Object.006
+    3300026: Object.007
+    3300028: Object.008
+    3300030: Object.009
+    3300032: Object.010
+    3300034: Object.011
+    3300036: Object.012
+    4300000: Object.001
+    4300002: Object.002
+    4300004: Object.003
+    4300006: Object.004
+    4300008: Object.005
+    4300010: Object.006
+    4300012: Object.007
+    4300014: Object.008
+    4300016: Object.009
+    4300018: 92095A287
+    4300020: 98380A467
+    4300022: 97-32P-04
+    4300024: 97-32P-03
+    4300026: Object.010
+    4300028: Object.011
+    4300030: Object.012
+    4300032: 97-32P-01(Default)
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
